@@ -1,6 +1,6 @@
-# Nr_Nuker
+# SP1IT V17
 
-| NR_NUKER  |  MADE BY HARSH | 
+| SP1IT V17|  MADE BY SOMNATH | 
 | ------------- | 
 | ![](https://cdn.discordapp.com/attachments/1109411690497445940/1109552946867351592/Screenshot_2023-05-21_at_12.15.49_AM.png) |
 
